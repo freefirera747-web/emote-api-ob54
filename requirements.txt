@@ -1,0 +1,11 @@
+flask
+gunicorn
+requests
+aiohttp
+urllib3
+psutil
+pytz
+pyjwt
+pycryptodome
+cfonts
+protobuf>=4.25.1,<5
